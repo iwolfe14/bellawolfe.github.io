@@ -1,0 +1,65 @@
+* {
+font-family: Tahoma, sans-serif;
+color:#77DD77;
+text-align: center;
+
+}
+
+header
+{font-family: Impact, sans-serif;
+
+}
+
+
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	border:double;
+	background-color: #FF79BE;
+ }
+
+
+nav {
+	background color:#FBB9F9;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background: #FFD1DC;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+#unique-page {
+    background-color:#77DD77  ;
+    border: dotted;
+    border-block-color: #FBB9F9;
+    padding: 15px;
+    margin-top: 30px;
+    font-family: Tahoma,sans-serif;
+    color: #FF79BE;
+    text-align: horizantal;
+
+#uniqueheader { background-color:#FFD1DC }
+
+#navunique {background-color: #FFD1DC}
+
+
+
+
+
+
